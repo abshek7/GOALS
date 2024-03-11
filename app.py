@@ -4,8 +4,7 @@ from passlib.hash import sha256_crypt
 from datetime import datetime
 
 app = Flask(__name__)
-app.secret_key = 'your_secret_key'  # Change this to a secure random key
-
+app.secret_key = 'MFDS'
 conn = sqlite3.connect('goals.db', check_same_thread=False)
 cursor = conn.cursor()
 
