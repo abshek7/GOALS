@@ -4,6 +4,7 @@
 user can use this to login, register and manage daily goals
 
 ## Deployment
+The project still has many functionalities for which code snippets which have to be modified and written correctly ,will be doing it in future
 If you want to access the project head over to [link](https://tinyurl.com/abhigoals) 
 
 ## Buld
