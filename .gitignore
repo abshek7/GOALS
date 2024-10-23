@@ -13,3 +13,5 @@ env/
 *.pyo
 *.pyd
 *.vs code
+*.db
+goals.db
